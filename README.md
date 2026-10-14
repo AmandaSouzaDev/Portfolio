@@ -32,7 +32,8 @@ Atualmente, busco uma oportunidade de **estágio em tecnologia**, com interesse 
 ## 🌐 Portfólio online
 
 **Acesse meu portfólio:**
-https://amandasouza-front.github.io/Portfolio/
+Acesse meu portfólio: https://AmandaSouzaDev.github.io/portfolio/
+
 
 ## 🔗 Meus links
 
