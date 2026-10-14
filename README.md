@@ -38,8 +38,8 @@ Acesse meu portfólio: https://AmandaSouzaDev.github.io/portfolio/
 ## 🔗 Meus links
 
 **GitHub:**
-https://github.com/AmandaSouza-Front
 
+ https://AmandaSouzaDev.github.io/portfolio/
 **LinkedIn:**
 https://www.linkedin.com/in/amanda-souza-535428423/
 
